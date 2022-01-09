@@ -9,7 +9,7 @@ import scipy.stats as st
 from scipy.stats import norm
 
  
-
+#This comment is a test change 
 ################ ALEX DISTRIBUTION 2 (MOST RECENT) #############################
 sigma = 110000 #110000
 
